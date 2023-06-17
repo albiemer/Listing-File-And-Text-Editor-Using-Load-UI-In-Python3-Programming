@@ -1,5 +1,7 @@
 # Listing-File-And-Text-Editor-Using-Load-UI-In-Python3-Programming
 
+repos link: https://gitlab.com/albiemerporte/listing-file-and-text-editor-using-load-ui-in-python3-programming/-/tree/main
+
 step 1:
 first activate your virtual environment for python
 
